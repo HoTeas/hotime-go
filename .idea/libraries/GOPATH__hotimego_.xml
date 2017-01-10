@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;hotimego&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../timpen" />
+      <root url="file://$PROJECT_DIR$/../../../hotime" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../timpen" />
+      <root url="file://$PROJECT_DIR$/../../../hotime" />
+    </SOURCES>
+  </library>
+</component>
